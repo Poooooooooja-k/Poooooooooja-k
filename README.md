@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pooja k</h1>
-<h3 align="center">A passionate Python full stack developer</h3>
+<h3 align="center">A passionate self-taught full-stack python developer.My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I take great care in the experience,architecture and code quality of things i build.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=poooooooooja-k&label=Profile%20views&color=0e75b6&style=flat" alt="poooooooooja-k" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **poojak1447@gmail.com**
+- 📫 How to reach me **letsmail.poojaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
